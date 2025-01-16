@@ -1,0 +1,8 @@
+Tutorial Running Belle (LLM-based CRS)
+
+1. Membuat API key di platform OpenAI
+2. Masukkan API key tersebut ke dalam variable openai.api_key
+3. Membuat bot menggunakan BotFather di Telegram (Tutorial membuat bot dapat dibaca pada link berikut: https://www.petanikode.com/bot-telegram-tanpa-coding/)
+4. Salin token bot yang diberikan dan masukkan ke dalam variable TELEGRAM_TOKEN
+5. Masukkan nama model yang sudah di-fine-tune ke dalam variable FINE_TUNED_MODEL_NAME
+6. Jalankan kode program secara berurutan
